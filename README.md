@@ -1,4 +1,4 @@
-# Movies App
+# Movie Critic App
 
 This project allows users to view movie details, add reviews, and see existing reviews for each movie. The application uses a React-based frontend with Vite, Spring Boot for the backend API, and integrates with various libraries such as Axios, React Bootstrap, Material-UI, and FontAwesome.
 
