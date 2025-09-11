@@ -20,7 +20,7 @@ This project allows users to view movie details, add reviews, and see existing r
 
 ## Tech Stack
 
-- **Frontend:** React, Vite, React Bootstrap, Material-UI, FontAwesome
+- **Frontend:** React, Vite, React Bootstrap, Material-UI
 - **Backend:** Spring Boot
 - **HTTP Client:** Axios
 - **Build Tools:** Maven (backend), npm (frontend)
